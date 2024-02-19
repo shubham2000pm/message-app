@@ -1,0 +1,9 @@
+.app-container {
+  display: flex;
+}
+
+.contact-list {
+  padding: 10px !important;
+  border-right: 1.5px solid #fff5fa;
+  /* height: 100vh; */
+}

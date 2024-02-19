@@ -1,0 +1,21 @@
+.contacts {
+  margin: 3% auto;
+  display: flex;
+}
+
+.info {
+  margin: auto 5%;
+  cursor: default;
+}
+.contact-list {
+  background-color: #fff5fa;
+}
+
+.contact-box::-webkit-scrollbar {
+  display: none;
+}
+
+.contact-box {
+  overflow-y: scroll;
+  height: 87vh;
+}

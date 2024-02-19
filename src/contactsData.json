@@ -1,0 +1,99 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "profileIcon": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "messages": [
+        { "id": 1, "text": "Hey there!" },
+        { "id": 2, "text": "What's up?" },
+        { "id": 3, "text": "I am Fine" },
+        { "id": 4, "text": "ok" },
+        { "id": 5, "text": "whats the time now!" },
+        { "id": 6, "text": "it's 10:00 am" },
+        { "id": 7, "text": "it's a sunny day" },
+        { "id": 8, "text": "nice!!" },
+        { "id": 9, "text": "let's have a meet this Sunday" },
+        { "id": 10, "text": "sure" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "profileIcon": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "messages": [
+        { "id": 1, "text": "Hi there!" },
+        { "id": 2, "text": "Just finished work." }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "profileIcon": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "messages": [{ "id": 1, "text": "Reminder: Meeting at 2 PM" }]
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "profileIcon": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "messages": [
+        { "id": 1, "text": "Hello!" },
+        { "id": 2, "text": "How are you?" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Eva",
+      "profileIcon": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "messages": [
+        { "id": 1, "text": "Hey, what's going on?" },
+        { "id": 2, "text": "Let's catch up sometime." }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Frank",
+      "profileIcon": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "messages": [
+        { "id": 1, "text": "Good morning!" },
+        { "id": 2, "text": "Any plans for today?" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Grace",
+      "profileIcon": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "messages": [
+        { "id": 1, "text": "Hi Grace!" },
+        { "id": 2, "text": "How's your day going?" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Hank",
+      "profileIcon": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "messages": [
+        { "id": 1, "text": "Hey, long time no see!" },
+        { "id": 2, "text": "We should plan something." }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Ivy",
+      "profileIcon": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "messages": [
+        { "id": 1, "text": "Hey Ivy!" },
+        { "id": 2, "text": "How's everything going?" }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Jack",
+      "profileIcon": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "messages": [
+        { "id": 1, "text": "Hello Jack!" },
+        { "id": 2, "text": "What's the latest?" }
+      ]
+    }
+  ]
+}
